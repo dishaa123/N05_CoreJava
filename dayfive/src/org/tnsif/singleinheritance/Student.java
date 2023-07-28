@@ -1,6 +1,7 @@
 package org.tnsif.singleinheritance;
 //derived/child class
 public class Student extends Citizen{
+	
 	//private datamembers
 	private int rollno;
     private String collageName;
@@ -18,6 +19,7 @@ public class Student extends Citizen{
 		this.rollno=rollno;
 		this.collageName=collageName;
 	}
+	
 //getter and setters
 	public int getRollno() {
 		return rollno;
