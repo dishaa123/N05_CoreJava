@@ -1,3 +1,4 @@
+
 package org.tnsif.statickeyword;
 
 public class StaticBlockExecutor {
