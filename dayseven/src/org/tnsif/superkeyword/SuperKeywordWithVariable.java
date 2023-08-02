@@ -9,7 +9,7 @@ class Capital extends State{
 	String capital="Chandigarh";
 	
 	public void display() {
-		/* super keyword with variable is use to call parent class vriable if and only if parent class and child class 
+		/* super keyword with variable is use to call parent class variable if and only if parent class and child class 
 		 * variable name are same*/
 		System.out.println(super.statename); //punjab
 		System.out.println(statename);  //hariyana
