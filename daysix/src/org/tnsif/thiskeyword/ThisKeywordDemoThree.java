@@ -6,7 +6,7 @@ public class ThisKeywordDemoThree {
      }
      void display() {
     	 /* when u call parameterize method inside non-parameterized method then,we get an error to overcome 
-    	  * that we have to this keyword as argument in method call*/
+    	  * that we have to use this keyword as argument in method call*/
     	 print(this);
      }
 	public static void main(String[] args) {

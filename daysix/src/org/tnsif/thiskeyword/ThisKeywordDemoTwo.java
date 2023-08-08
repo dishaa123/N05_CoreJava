@@ -5,7 +5,7 @@ public class ThisKeywordDemoTwo {
 	   	int x,y;
 		
 		public ThisKeywordDemoTwo(int x, int y) {	
-	        this.x = x;
+	         this.x = x;
 		     this.y = y;
 	   }
 		void Display() {
